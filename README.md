@@ -10,3 +10,5 @@ K-nearest neighbour algo on diabetes -  https://www.kaggle.com/datasets/abdallam
 
 k-means clustering on sales data sample -  https://www.kaggle.com/datasets/kyanyoga/sample-sales-data
 
+gdrive - https://drive.google.com/drive/folders/1g91Qm5my_z6uWpAfOmEiDv-y5A_WfXyU
+
